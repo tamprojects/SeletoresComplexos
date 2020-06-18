@@ -1,0 +1,22 @@
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  background-position: 0 50%;
+  background-repeat: no-repeat;
+  color: #0087cc;
+  padding-left: 22px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff7b29;
+}
+
+a[href$=".pdf"] {
+  background-image: url('pdf.png');
+}
+
