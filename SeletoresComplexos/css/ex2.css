@@ -17,6 +17,6 @@ a:hover {
 }
 
 a[href$=".pdf"] {
-  background-image: url('images/pdf.png');
+  background-image: url('../images/pdf.png');
 }
 
